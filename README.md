@@ -51,6 +51,9 @@ However, the photos offset from the top would vary depending on the screen
 size/number of elements in a row.
 
 - What have you learned/improved?
+
+I improved my knowledge of CSS Grid and Flexbox.
+
 - Your wisdom? :)
 
 Wait for the [nth-col](https://developer.mozilla.org/en-US/docs/Web/CSS/:nth-col)
@@ -66,6 +69,9 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 
 ## Acknowledgements
+
+- [CSS-Tricks on Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
+- [CSS-Tricks on Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
 ## Contact
 
