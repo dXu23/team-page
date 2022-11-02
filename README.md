@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://coldfix.dev/dev-challenges/team-page.html">
+    <a href="https://stellar-pie-8fdc8f.netlify.app">
       Demo
     </a>
     <span> | </span>
-    <a href="https://github.com/dXu23/team-page/blob/main/team-page.html">
+    <a href="https://github.com/dXu23/team-page/">
       Solution
     </a>
     <span> | </span>
@@ -75,5 +75,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Website [coldfix.dev](https://coldfix.dev)
-- GitHub [@dXu23](https://github.com/dXu23)
+- [Website](https://rad-sunshine-871fb5.netlify.app/)
+- [GitHub](https://github.com/dXu23)
